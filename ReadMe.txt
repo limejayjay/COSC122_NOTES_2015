@@ -1,0 +1,1 @@
+There is an intention on my part to generate notes that relate directly to COSC122 2015.
